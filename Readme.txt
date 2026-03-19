@@ -1,0 +1,5 @@
+https://dennisbay.github.io/vagtplan-kalender/kamma-dfkj3456dsjq.ics
+
+
+https://open-web-calendar.hosted.quelltext.eu/calendar.html?url=https://dennisbay.github.io/vagtplan-kalender/kamma-dfkj3456dsjq.ics&view=month&language=da
+
