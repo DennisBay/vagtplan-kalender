@@ -1,0 +1,709 @@
+BEGIN:VCALENDAR
+PRODID:-//OpenAI//3P-Skolen Kalender//DA
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:3P-Skolen 2026
+X-WR-TIMEZONE:Europe/Copenhagen
+BEGIN:VEVENT
+UID:1-a169c6568a98@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260107T193000
+DTEND;TZID=Europe/Copenhagen:20260107T210000
+SUMMARY:CoachingCaféen
+LOCATION:Ikke oplyst
+URL:https://3p-skolen.dk/events/coachingcafeen-5/
+DESCRIPTION:CoachingCaféen\nKategori: Begivenhed\nPåmindelse foreslået: 15 
+ min\nKilde: https://3p-skolen.dk/events/coachingcafeen-5/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CoachingCaféen
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2-19252b6ba75b@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260114T193000
+DTEND;TZID=Europe/Copenhagen:20260114T210000
+SUMMARY:Sydney Banks Video Klub
+LOCATION:Online
+URL:https://3p-skolen.dk/events/sydney-banks-video-klub/
+DESCRIPTION:Online fællesskab / video klub\nKategori: Begivenhed\nPåmindels
+ e foreslået: 15 min\nKilde: https://3p-skolen.dk/events/sydney-banks-video
+ -klub/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sydney Banks Video Klub
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3-3a27b21254a6@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260118
+SUMMARY:3P Coachuddannelse – Nordsjælland\, 2. modul
+LOCATION:Nordsjælland
+URL:https://3p-skolen.dk/events/3p-coachuddannelse-nordsjaelland-1-modul-ku
+ rsusstart-726/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/3p-coachuddannelse-nordsjaelland-1-modul-
+ kursusstart-726/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4-732c9fec06b8@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260128T193000
+DTEND;TZID=Europe/Copenhagen:20260128T210000
+SUMMARY:Sydney Banks Video Klub
+LOCATION:Online
+URL:https://3p-skolen.dk/events/sydney-banks-video-klub/
+DESCRIPTION:Online fællesskab / video klub\nKategori: Begivenhed\nPåmindels
+ e foreslået: 15 min\nKilde: https://3p-skolen.dk/events/sydney-banks-video
+ -klub/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sydney Banks Video Klub
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5-1a68369e2060@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260211T193000
+DTEND;TZID=Europe/Copenhagen:20260211T210000
+SUMMARY:Sydney Banks Video Klub
+LOCATION:Online
+URL:https://3p-skolen.dk/events/sydney-banks-video-klub/
+DESCRIPTION:Online fællesskab / video klub\nKategori: Begivenhed\nPåmindels
+ e foreslået: 15 min\nKilde: https://3p-skolen.dk/events/sydney-banks-video
+ -klub/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sydney Banks Video Klub
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6-376015a88d41@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260225T193000
+DTEND;TZID=Europe/Copenhagen:20260225T210000
+SUMMARY:Sydney Banks Video Klub
+LOCATION:Online
+URL:https://3p-skolen.dk/events/sydney-banks-video-klub/
+DESCRIPTION:Online fællesskab / video klub\nKategori: Begivenhed\nPåmindels
+ e foreslået: 15 min\nKilde: https://3p-skolen.dk/events/sydney-banks-video
+ -klub/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sydney Banks Video Klub
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7-1569aa1024c8@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260305T193000
+DTEND;TZID=Europe/Copenhagen:20260305T210000
+SUMMARY:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+LOCATION:Online (Zoom)
+URL:https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-indsi
+ gter-onlineforloeb-kursusstart/
+DESCRIPTION:Onlineforløb\nKategori: Kursus\nPåmindelse foreslået: 15 min\nK
+ ilde: https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-in
+ dsigter-onlineforloeb-kursusstart/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8-056ae1883494@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260311T193000
+DTEND;TZID=Europe/Copenhagen:20260311T210000
+SUMMARY:Sydney Banks Video Klub
+LOCATION:Online
+URL:https://3p-skolen.dk/events/sydney-banks-video-klub/
+DESCRIPTION:Online fællesskab / video klub\nKategori: Begivenhed\nPåmindels
+ e foreslået: 15 min\nKilde: https://3p-skolen.dk/events/sydney-banks-video
+ -klub/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sydney Banks Video Klub
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9-1d036b2c6586@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260312T193000
+DTEND;TZID=Europe/Copenhagen:20260312T210000
+SUMMARY:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+LOCATION:Online (Zoom)
+URL:https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-indsi
+ gter-onlineforloeb-kursusstart/
+DESCRIPTION:Onlineforløb\nKategori: Kursus\nPåmindelse foreslået: 15 min\nK
+ ilde: https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-in
+ dsigter-onlineforloeb-kursusstart/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10-6b7dfa60045d@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260315
+SUMMARY:3P Coachuddannelse – Nordsjælland\, 3. modul
+LOCATION:Nordsjælland
+URL:https://3p-skolen.dk/events/3p-coachuddannelse-nordsjaelland-1-modul-ku
+ rsusstart-726-285/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/3p-coachuddannelse-nordsjaelland-1-modul-
+ kursusstart-726-285/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:11-7aa73fcb0850@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260319T193000
+DTEND;TZID=Europe/Copenhagen:20260319T210000
+SUMMARY:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+LOCATION:Online (Zoom)
+URL:https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-indsi
+ gter-onlineforloeb-kursusstart/
+DESCRIPTION:Onlineforløb\nKategori: Kursus\nPåmindelse foreslået: 15 min\nK
+ ilde: https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-in
+ dsigter-onlineforloeb-kursusstart/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:12-054a81517fdd@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260322
+SUMMARY:Grunduddannelse – Nordsjælland\, 1. modul
+LOCATION:Udsholt\, Nordsjælland
+URL:https://3p-skolen.dk/events/practitioner-udsholt-kursusstart-1-modul/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/practitioner-udsholt-kursusstart-1-modul/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:13-cba7976d0b0c@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260325T193000
+DTEND;TZID=Europe/Copenhagen:20260325T210000
+SUMMARY:Sydney Banks Video Klub
+LOCATION:Online
+URL:https://3p-skolen.dk/events/sydney-banks-video-klub/
+DESCRIPTION:Online fællesskab / video klub\nKategori: Begivenhed\nPåmindels
+ e foreslået: 15 min\nKilde: https://3p-skolen.dk/events/sydney-banks-video
+ -klub/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sydney Banks Video Klub
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:14-7229257da15d@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260326T193000
+DTEND;TZID=Europe/Copenhagen:20260326T210000
+SUMMARY:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+LOCATION:Online (Zoom)
+URL:https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-indsi
+ gter-onlineforloeb-kursusstart/
+DESCRIPTION:Onlineforløb\nKategori: Kursus\nPåmindelse foreslået: 15 min\nK
+ ilde: https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-in
+ dsigter-onlineforloeb-kursusstart/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:15-8c53c71d09ca@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260401T193000
+DTEND;TZID=Europe/Copenhagen:20260401T210000
+SUMMARY:CoachingCaféen
+LOCATION:Ikke oplyst
+URL:https://3p-skolen.dk/events/coachingcafeen-8/
+DESCRIPTION:CoachingCaféen\nKategori: Begivenhed\nPåmindelse foreslået: 15 
+ min\nKilde: https://3p-skolen.dk/events/coachingcafeen-8/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CoachingCaféen
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:16-d00b56793161@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260408T193000
+DTEND;TZID=Europe/Copenhagen:20260408T210000
+SUMMARY:Sydney Banks Video Klub
+LOCATION:Online
+URL:https://3p-skolen.dk/events/sydney-banks-video-klub/
+DESCRIPTION:Online fællesskab / video klub\nKategori: Begivenhed\nPåmindels
+ e foreslået: 15 min\nKilde: https://3p-skolen.dk/events/sydney-banks-video
+ -klub/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sydney Banks Video Klub
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:17-f8fa066276d5@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260409T193000
+DTEND;TZID=Europe/Copenhagen:20260409T210000
+SUMMARY:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+LOCATION:Online (Zoom)
+URL:https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-indsi
+ gter-onlineforloeb-kursusstart/
+DESCRIPTION:Onlineforløb\nKategori: Kursus\nPåmindelse foreslået: 15 min\nK
+ ilde: https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-in
+ dsigter-onlineforloeb-kursusstart/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:18-5d4683118b66@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260410T150000
+DTEND;TZID=Europe/Copenhagen:20260410T180000
+SUMMARY:Kærlighed\, parforhold og intimitet i hjertet af De Tre Principper 
+ – dag 1
+LOCATION:Udsholt\, Nordsjælland
+URL:https://3p-skolen.dk/events/kaerlighed-parforhold-og-intimitet-i-hjerte
+ t-af-de-tre-principper/
+DESCRIPTION:Weekendkursus – dag 1\nKategori: Kursus\nPåmindelse foreslået: 
+ 30 min\nKilde: https://3p-skolen.dk/events/kaerlighed-parforhold-og-intimi
+ tet-i-hjertet-af-de-tre-principper/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kærlighed\, parforhold og intimitet i hjertet af De Tre Princip
+ per – dag 1
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:19-392b3b063c57@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260411T100000
+DTEND;TZID=Europe/Copenhagen:20260411T180000
+SUMMARY:Kærlighed\, parforhold og intimitet i hjertet af De Tre Principper 
+ – dag 2
+LOCATION:Udsholt\, Nordsjælland
+URL:https://3p-skolen.dk/events/kaerlighed-parforhold-og-intimitet-i-hjerte
+ t-af-de-tre-principper/
+DESCRIPTION:Weekendkursus – dag 2\nKategori: Kursus\nPåmindelse foreslået: 
+ 30 min\nKilde: https://3p-skolen.dk/events/kaerlighed-parforhold-og-intimi
+ tet-i-hjertet-af-de-tre-principper/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kærlighed\, parforhold og intimitet i hjertet af De Tre Princip
+ per – dag 2
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20-53a44d4d0330@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260412T100000
+DTEND;TZID=Europe/Copenhagen:20260412T150000
+SUMMARY:Kærlighed\, parforhold og intimitet i hjertet af De Tre Principper 
+ – dag 3
+LOCATION:Udsholt\, Nordsjælland
+URL:https://3p-skolen.dk/events/kaerlighed-parforhold-og-intimitet-i-hjerte
+ t-af-de-tre-principper/
+DESCRIPTION:Weekendkursus – dag 3\nKategori: Kursus\nPåmindelse foreslået: 
+ 30 min\nKilde: https://3p-skolen.dk/events/kaerlighed-parforhold-og-intimi
+ tet-i-hjertet-af-de-tre-principper/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kærlighed\, parforhold og intimitet i hjertet af De Tre Princip
+ per – dag 3
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:21-2aead1615a66@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260419
+SUMMARY:Grunduddannelse – Nordsjælland\, 2. modul
+LOCATION:Udsholt\, Nordsjælland
+URL:https://3p-skolen.dk/events/practitioner-udsholt-kursusstart-1-modul-2/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/practitioner-udsholt-kursusstart-1-modul-
+ 2/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:22-dec405dcb537@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260416T193000
+DTEND;TZID=Europe/Copenhagen:20260416T210000
+SUMMARY:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+LOCATION:Online (Zoom)
+URL:https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-indsi
+ gter-onlineforloeb-kursusstart/
+DESCRIPTION:Onlineforløb\nKategori: Kursus\nPåmindelse foreslået: 15 min\nK
+ ilde: https://3p-skolen.dk/events/fra-intellektuel-forstaaelse-til-dybe-in
+ dsigter-onlineforloeb-kursusstart/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fra intellektuel forståelse til dybe indsigter – onlineforløb
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:23-904851f02946@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260422T193000
+DTEND;TZID=Europe/Copenhagen:20260422T210000
+SUMMARY:Sydney Banks Video Klub
+LOCATION:Online
+URL:https://3p-skolen.dk/events/sydney-banks-video-klub/
+DESCRIPTION:Online fællesskab / video klub\nKategori: Begivenhed\nPåmindels
+ e foreslået: 15 min\nKilde: https://3p-skolen.dk/events/sydney-banks-video
+ -klub/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sydney Banks Video Klub
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:24-530fa7afd753@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260426
+SUMMARY:3P Coachuddannelse – Jylland\, 1. modul
+LOCATION:Højslev v/Skive\, Jylland
+URL:https://3p-skolen.dk/events/3p-coachuddannelse-jylland-1-modul-kursusst
+ art/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/3p-coachuddannelse-jylland-1-modul-kursus
+ start/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:25-0f8004cbacb6@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260506T193000
+DTEND;TZID=Europe/Copenhagen:20260506T210000
+SUMMARY:CoachingCaféen
+LOCATION:Ikke oplyst
+URL:https://3p-skolen.dk/events/coachingcafeen-9/
+DESCRIPTION:CoachingCaféen\nKategori: Begivenhed\nPåmindelse foreslået: 15 
+ min\nKilde: https://3p-skolen.dk/events/coachingcafeen-9/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CoachingCaféen
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26-d2558e316ab1@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260510
+SUMMARY:3P Coachuddannelse – Nordsjælland\, 4. modul
+LOCATION:Nordsjælland
+URL:https://3p-skolen.dk/events/3p-coachuddannelse-nordsjaelland-1-modul-ku
+ rsusstart-726-285-2/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/3p-coachuddannelse-nordsjaelland-1-modul-
+ kursusstart-726-285-2/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:27-1beafdedaefa@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260517
+SUMMARY:Grunduddannelse – Nordsjælland\, 3. modul
+LOCATION:Udsholt\, Nordsjælland
+URL:https://3p-skolen.dk/events/practitioner-udsholt-kursusstart-1-modul-3/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/practitioner-udsholt-kursusstart-1-modul-
+ 3/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:28-e065caa8c243@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260529T090000
+DTEND;TZID=Europe/Copenhagen:20260531T150000
+SUMMARY:Ledelse indefra – weekendkursus for ledere
+LOCATION:Ikke oplyst
+URL:https://3p-skolen.dk/events/ledelse-indefra-weekendkursus-for-ledere/
+DESCRIPTION:Weekendkursus for ledere\nKategori: Kursus\nPåmindelse foreslåe
+ t: 30 min\nKilde: https://3p-skolen.dk/events/ledelse-indefra-weekendkursu
+ s-for-ledere/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ledelse indefra – weekendkursus for ledere
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:29-3bcf4b650a46@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260603T193000
+DTEND;TZID=Europe/Copenhagen:20260603T210000
+SUMMARY:CoachingCaféen
+LOCATION:Ikke oplyst
+URL:https://3p-skolen.dk/events/coachingcafeen-10/
+DESCRIPTION:CoachingCaféen\nKategori: Begivenhed\nPåmindelse foreslået: 15 
+ min\nKilde: https://3p-skolen.dk/events/coachingcafeen-10/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CoachingCaféen
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:30-2cd8ddd2853b@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260614
+SUMMARY:Grunduddannelse – Nordsjælland\, 4. modul
+LOCATION:Udsholt\, Nordsjælland
+URL:https://3p-skolen.dk/events/practitioner-udsholt-kursusstart-1-modul-4/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/practitioner-udsholt-kursusstart-1-modul-
+ 4/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:31-db620b624389@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260621
+SUMMARY:3P Coachuddannelse – Jylland\, 2. modul
+LOCATION:Højslev v/Skive\, Jylland
+URL:https://3p-skolen.dk/events/3p-coachuddannelse-jylland-1-modul-kursusst
+ art-2/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/3p-coachuddannelse-jylland-1-modul-kursus
+ start-2/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:32-7b20bd08990d@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260812T193000
+DTEND;TZID=Europe/Copenhagen:20260812T210000
+SUMMARY:CoachingCaféen
+LOCATION:Ikke oplyst
+URL:https://3p-skolen.dk/events/coachingcafeen-11/
+DESCRIPTION:CoachingCaféen\nKategori: Begivenhed\nPåmindelse foreslået: 15 
+ min\nKilde: https://3p-skolen.dk/events/coachingcafeen-11/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CoachingCaféen
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:33-0887cba7f16a@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260823
+SUMMARY:3P Coachuddannelse – Jylland\, 3. modul
+LOCATION:Højslev v/Skive\, Jylland
+URL:https://3p-skolen.dk/events/3p-coachuddannelse-jylland-1-modul-kursusst
+ art-3/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/3p-coachuddannelse-jylland-1-modul-kursus
+ start-3/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:34-d62999d55c58@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260910T160000
+DTEND;TZID=Europe/Copenhagen:20260912T150000
+SUMMARY:Grunduddannelsen – Fyn\, 1. modul
+LOCATION:StenstrupLund Kursuscenter\, Fyn
+URL:https://3p-skolen.dk/events/grunduddannelsen-fyn-kursusstart/
+DESCRIPTION:Torsdag 16:00 til lørdag 15:00\nKategori: Kursus\nPåmindelse fo
+ reslået: 30 min\nKilde: https://3p-skolen.dk/events/grunduddannelsen-fyn-k
+ ursusstart/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Grunduddannelsen – Fyn\, 1. modul
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:35-6dcb2d2290e6@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20260916T193000
+DTEND;TZID=Europe/Copenhagen:20260916T210000
+SUMMARY:CoachingCaféen
+LOCATION:Ikke oplyst
+URL:https://3p-skolen.dk/events/coachingcafeen-12/
+DESCRIPTION:CoachingCaféen\nKategori: Begivenhed\nPåmindelse foreslået: 15 
+ min\nKilde: https://3p-skolen.dk/events/coachingcafeen-12/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CoachingCaféen
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36-7c2a6106ccb8@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20261008T160000
+DTEND;TZID=Europe/Copenhagen:20261010T150000
+SUMMARY:Grunduddannelsen – Fyn\, 2. modul
+LOCATION:StenstrupLund Kursuscenter\, Fyn
+URL:https://3p-skolen.dk/events/grunduddannelsen-fyn-kursusstart-2/
+DESCRIPTION:Torsdag 16:00 til lørdag 15:00\nKategori: Kursus\nPåmindelse fo
+ reslået: 30 min\nKilde: https://3p-skolen.dk/events/grunduddannelsen-fyn-k
+ ursusstart-2/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Grunduddannelsen – Fyn\, 2. modul
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:37-0dbd8de91417@openai.local
+DTSTAMP:20260323T080653
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261025
+SUMMARY:3P Coachuddannelse – Jylland\, 4. modul
+LOCATION:Højslev v/Skive\, Jylland
+URL:https://3p-skolen.dk/events/3p-coachuddannelse-jylland-1-modul-kursusst
+ art-4/
+DESCRIPTION:Heldagsmodul\nKategori: Kursus\nPåmindelse foreslået: 0 min\nKi
+ lde: https://3p-skolen.dk/events/3p-coachuddannelse-jylland-1-modul-kursus
+ start-4/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:38-0641aa5c848a@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20261105T160000
+DTEND;TZID=Europe/Copenhagen:20261107T150000
+SUMMARY:Grunduddannelsen – Fyn\, 3. modul
+LOCATION:StenstrupLund Kursuscenter\, Fyn
+URL:https://3p-skolen.dk/events/grunduddannelsen-fyn-kursusstart-3/
+DESCRIPTION:Torsdag 16:00 til lørdag 15:00\nKategori: Kursus\nPåmindelse fo
+ reslået: 30 min\nKilde: https://3p-skolen.dk/events/grunduddannelsen-fyn-k
+ ursusstart-3/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Grunduddannelsen – Fyn\, 3. modul
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:39-f0787ef0bb1a@openai.local
+DTSTAMP:20260323T080653
+DTSTART;TZID=Europe/Copenhagen:20261203T160000
+DTEND;TZID=Europe/Copenhagen:20261205T150000
+SUMMARY:Grunduddannelsen – Fyn\, 4. modul
+LOCATION:StenstrupLund Kursuscenter\, Fyn
+URL:https://3p-skolen.dk/events/grunduddannelsen-fyn-kursusstart-4/
+DESCRIPTION:Torsdag 16:00 til lørdag 15:00\nKategori: Kursus\nPåmindelse fo
+ reslået: 30 min\nKilde: https://3p-skolen.dk/events/grunduddannelsen-fyn-k
+ ursusstart-4/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Grunduddannelsen – Fyn\, 4. modul
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
